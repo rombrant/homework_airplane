@@ -1,18 +1,27 @@
 body {
     position: relative;
+    margin: 0 auto;
     left: 10%;
-    width: 1100px;
+    height: 80px;
+}
+
+.body__container {
+    height: 80px;
+    margin: 0 auto;
+    background-color: #4b73b5;
 }
 
 .container {
     position: relative;
+    width: 1100px;
+    margin: 0 auto;
+    background-color: #4b73b5;
 }
 
 .header {
     background: #4b73b5;
     position: relative;
     margin: 0 auto;
-    width: 1100px;
     height: 80px;
 }
 
@@ -136,9 +145,8 @@ body {
 }
 
 footer {
-    margin-top: 96%;
+    margin-top: 97%;
     position: relative;
-    background-color: #4b73b5;
 }
 
 .copyrights {
